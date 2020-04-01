@@ -1,0 +1,24 @@
+{
+  "name": "eliott",
+  "description": "Bot pour discord",
+  "version": "0.1.0",
+  "main": "projet.js",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliott-2098/LOUP-GAROU-BOT.git"
+  },
+  "author": "Eliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eliott-2098/LOUP-GAROU-BOT/issues"
+  },
+  "homepage": "https://github.com/Eliott-2098/LOUP-GAROU-BOT#readme"
+}
